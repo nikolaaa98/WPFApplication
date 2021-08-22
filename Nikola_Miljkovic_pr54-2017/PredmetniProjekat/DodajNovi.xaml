@@ -1,0 +1,66 @@
+﻿<Window x:Class="PredmetniProjekat.DodajNovi"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PredmetniProjekat"
+        mc:Ignorable="d"
+        Title="DodajNovi" Height="698" Width="800">
+    <Grid Height="661" VerticalAlignment="Top">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="171*"/>
+            <ColumnDefinition Width="497*"/>
+            <ColumnDefinition Width="68*"/>
+            <ColumnDefinition Width="50*"/>
+            <ColumnDefinition Width="7*"/>
+        </Grid.ColumnDefinitions>
+        <Grid HorizontalAlignment="Left" Height="657" Margin="12,10,0,0" VerticalAlignment="Top" Width="772" Background="White" Grid.ColumnSpan="4">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="3*"/>
+                <ColumnDefinition Width="240"/>
+                <ColumnDefinition Width="130*"/>
+            </Grid.ColumnDefinitions>
+            <Label Content="  Dodaj model" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="146" Height="34" FontSize="18" FontWeight="Bold"  Grid.ColumnSpan="2" Background="#FFFFFBFB"/>
+            <TextBox x:Name="tb1" HorizontalAlignment="Left" Height="21" Margin="168,10,0,0" TextWrapping="Wrap" Text="ovde upisiti koji audi model zelite dodati ..." VerticalAlignment="Top" Width="582" FontStyle="Italic" Background="#FFFDFCFC" Grid.ColumnSpan="2"  MouseEnter="tb1_MouseEnter" Grid.Column="1"/>
+            <Label Content="Oznaka modela" HorizontalAlignment="Left" Margin="10,57,0,0" VerticalAlignment="Top" Width="146" Height="34" Background="#FFFFFBFB" FontSize="18" FontWeight="Bold" Grid.ColumnSpan="2"/>
+            <TextBox x:Name="tb2" HorizontalAlignment="Left" Height="21" Margin="168,57,0,0" TextWrapping="Wrap" Text="ovde upisiti oznaku modela zelite dodati ..." VerticalAlignment="Top" Width="582" FontStyle="Italic"  Background="#FFFDFCFC" Grid.ColumnSpan="2"  MouseEnter="tb2_MouseEnter" Grid.Column="1"/>
+            <Label Content="Opis modela" HorizontalAlignment="Left" Margin="10,172,0,0" VerticalAlignment="Top" Width="146" Height="38" Background="#FFFFFBFB" FontSize="18" FontWeight="Bold" Grid.ColumnSpan="2"/>
+            <TextBox  x:Name="tb3" HorizontalAlignment="Left" Height="81" Margin="168,159,0,0" TextWrapping="Wrap" Text="ovde opisite vas model automobila..." VerticalAlignment="Top" Width="582" RenderTransformOrigin="0.488,0.478" FontStyle="Italic" Grid.ColumnSpan="2"  MouseEnter="tb3_MouseEnter" Grid.Column="1"/>
+            <Label Content="Naslovna slika:" HorizontalAlignment="Left" Margin="10,402,0,0" VerticalAlignment="Top" Width="146" Height="46" Background="#FFFFFBFB" FontSize="18" FontWeight="Bold" Grid.ColumnSpan="2"/>
+            <Button x:Name="Odaberi"  Content="BROWSE..." HorizontalAlignment="Left" Margin="168,402,0,0" VerticalAlignment="Top" Width="254" Grid.ColumnSpan="2" Height="39" FontSize="18" Background="White" Click="Button_Click_1" Grid.Column="1"/>
+            <Label Content="Katerogrija" HorizontalAlignment="Left" Margin="10,498,0,0" VerticalAlignment="Top" Width="146" Height="46" Background="#FFFFFBFB" FontSize="18" FontWeight="Bold" Grid.Column="1"/>
+            <ComboBox x:Name="comboBox" HorizontalAlignment="Left" Margin="168,477,0,0" VerticalAlignment="Top" Width="254" Height="40" Grid.ColumnSpan="2"  Grid.Column="1">
+                <ComboBox.Background>
+                    <LinearGradientBrush EndPoint="0,1" StartPoint="0,0">
+                        <GradientStop Color="#FFF0F0F0" Offset="0"/>
+                        <GradientStop Color="White" Offset="1"/>
+                    </LinearGradientBrush>
+                </ComboBox.Background>
+            </ComboBox>
+            <Rectangle  Fill="#FF707070" HorizontalAlignment="Left"  Height="8" Margin="0,555,0,0" Stroke="Black" VerticalAlignment="Top" Width="752" Grid.ColumnSpan="2" RenderTransformOrigin="0.5,0.5" Grid.Column="1" >
+                <Rectangle.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform/>
+                        <SkewTransform AngleX="0.843"/>
+                        <RotateTransform/>
+                        <TranslateTransform X="0.735"/>
+                    </TransformGroup>
+                </Rectangle.RenderTransform>
+            </Rectangle>
+            <Button Content="DODAJ" HorizontalAlignment="Left" Margin="10,573,0,0" VerticalAlignment="Top" Width="359" Height="74" Grid.ColumnSpan="3" Click="Button_Click" FontSize="24" FontWeight="Bold" Background="White"/>
+            <Button Content="IZADJI" HorizontalAlignment="Left" Margin="152,573,0,0" VerticalAlignment="Top" Width="358" Height="74" Grid.Column="2" FontSize="22" FontWeight="Bold" Click="Button_Click_2" Background="White"/>
+            <Image x:Name="Image" Grid.Column="2" HorizontalAlignment="Left" Height="124" Margin="219,420,0,0" VerticalAlignment="Top" Width="291"/>
+            <Label x:Name="labelCena" Content="" HorizontalAlignment="Left" Margin="168,326,0,0" VerticalAlignment="Top" Width="582" Height="30" Background="#FFFBFBFB" Grid.ColumnSpan="2" Grid.Column="1" FontWeight="Bold" FontSize="9"/>
+            <Label x:Name="labelGreska1" Content="" HorizontalAlignment="Left" Margin="168,36,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.474,0.481" Grid.ColumnSpan="2" Width="582" Grid.Column="1" FontWeight="Bold" Height="16" FontSize="9"/>
+            <Label x:Name="labelGreska2" Content="" HorizontalAlignment="Left"  Height="16" Margin="168,83,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.408,0.558" Grid.ColumnSpan="2" Width="574" Grid.Column="1" FontWeight="Bold" FontSize="9"/>
+            <Label x:Name="labelGreska4" Content="" HorizontalAlignment="Left" Margin="168,446,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.513,0.635" Grid.ColumnSpan="2" Width="254" Grid.Column="1" FontWeight="Bold" FontSize="9"/>
+            <Label x:Name="labelGreska5" Content="" HorizontalAlignment="Left" Margin="168,522,0,0" VerticalAlignment="Top" Grid.ColumnSpan="2" Width="254" Grid.Column="1" FontWeight="Bold" FontSize="9"/>
+            <DatePicker x:Name ="kalendar" HorizontalAlignment="Left" Margin="168,104,0,0" VerticalAlignment="Top" Grid.ColumnSpan="2" Width="582" Grid.Column="1" FirstDayOfWeek="Tuesday" SelectedDateFormat="Short" Cursor="None"/>
+            <Label Content="Godiste" HorizontalAlignment="Left" Margin="10,104,0,0" VerticalAlignment="Top" Width="146" Height="34" Background="#FFFFFBFB" FontSize="18" FontWeight="Bold" Grid.ColumnSpan="2"/>
+            <Label x:Name="labelKalendar"  Grid.Column="1" HorizontalAlignment="Left" Margin="168,133,0,0" VerticalAlignment="Top" Grid.ColumnSpan="2"   Width="582" Height="21" FontWeight="Bold" FontSize="9" />
+            <TextBox x:Name="Cena"  HorizontalAlignment="Left" Height="44" Margin="168,277,0,0" TextWrapping="Wrap" Text="Unesite cenu vozila u evrima" VerticalAlignment="Top" Width="582" Grid.ColumnSpan="2" FontStyle="Italic" Grid.Column="1" MouseEnter="tb7_MouseEnter" />
+            <Label x:Name="labelcena" Content="Cena" Grid.Column="1" HorizontalAlignment="Left" Margin="10,277,0,0" VerticalAlignment="Top" Width="146" Height="46" Background="#FFFFFBFB" FontSize="18" FontWeight="Bold"/>
+            <Label x:Name="labelGreska3" Content="" HorizontalAlignment="Left" Margin="168,245,0,0" VerticalAlignment="Top" Width="574" Height="16" Background="#FFFBFBFB" Grid.ColumnSpan="2" Grid.Column="1" FontWeight="Bold" FontSize="9"/>
+        </Grid>
+    </Grid>
+</Window>

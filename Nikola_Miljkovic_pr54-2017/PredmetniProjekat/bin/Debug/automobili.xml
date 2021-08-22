@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<ArrayOfAudi xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Audi>
+    <Id>1</Id>
+    <Model>A4</Model>
+    <Oznaka>Sline</Oznaka>
+    <Opis>Audi srednje kategorije</Opis>
+    <Karoserija>limuzina</Karoserija>
+    <Vreme>2019-11-03T21:04:08.8476456+01:00</Vreme>
+    <Image>F:/Projekat/Nikola_Miljkovic_pr54-2017/PredmetniProjekat/a4.jpg</Image>
+    <Cena>20000</Cena>
+  </Audi>
+  <Audi>
+    <Id>2</Id>
+    <Model>A6</Model>
+    <Oznaka>Quatro</Oznaka>
+    <Opis>Audi visoke srednje kategorije</Opis>
+    <Karoserija>limuzina</Karoserija>
+    <Vreme>2019-11-03T21:04:08.8666445+01:00</Vreme>
+    <Image>F:/Projekat/Nikola_Miljkovic_pr54-2017/PredmetniProjekat/a6.jpg</Image>
+    <Cena>30000</Cena>
+  </Audi>
+  <Audi>
+    <Id>3</Id>
+    <Model>A8</Model>
+    <Oznaka>TDI50</Oznaka>
+    <Opis>Audi visoke kategorije</Opis>
+    <Karoserija>limuzina</Karoserija>
+    <Vreme>2019-11-03T21:04:08.8666445+01:00</Vreme>
+    <Image>F:/Projekat/Nikola_Miljkovic_pr54-2017/PredmetniProjekat/a8.jpg</Image>
+    <Cena>50000</Cena>
+  </Audi>
+  <Audi>
+    <Id>4</Id>
+    <Model>80</Model>
+    <Oznaka>JAJE</Oznaka>
+    <Opis>Audi 80 B1 se proizvodio od 1972. do 1978. godine. Bio je tehnološki brat blizanac VW Passata B1 koji se proizvodio od 1973. do 1980</Opis>
+    <Karoserija>limuzina</Karoserija>
+    <Vreme>2019-11-03T21:04:08.8666445+01:00</Vreme>
+    <Image>F:/Projekat/Nikola_Miljkovic_pr54-2017/PredmetniProjekat/80.jpg</Image>
+    <Cena>1000</Cena>
+  </Audi>
+  <Audi>
+    <Id>5</Id>
+    <Model>Q5</Model>
+    <Oznaka>exclusive</Oznaka>
+    <Opis>Audi Q5 je SUV njemačke marke Audi i proizvodi se od 2008. godine u Audijevoj tvornici u Ingolstadtu</Opis>
+    <Karoserija>SUV/Dzip</Karoserija>
+    <Vreme>2019-11-03T21:04:08.8666445+01:00</Vreme>
+    <Image>F:/Projekat/Nikola_Miljkovic_pr54-2017/PredmetniProjekat/q5.jpg</Image>
+    <Cena>27000</Cena>
+  </Audi>
+</ArrayOfAudi>

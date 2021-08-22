@@ -1,0 +1,72 @@
+F:\Projekat\Nikola_Miljkovic_pr54-2017\PredmetniProjekat\obj\Debug\PredmetniProjekat.csprojAssemblyReference.cache
+F:\Projekat\Nikola_Miljkovic_pr54-2017\PredmetniProjekat\obj\Debug\DodajNovi.g.cs
+F:\Projekat\Nikola_Miljkovic_pr54-2017\PredmetniProjekat\obj\Debug\MainWindow.g.cs
+F:\Projekat\Nikola_Miljkovic_pr54-2017\PredmetniProjekat\obj\Debug\App.g.cs
+F:\Projekat\Nikola_Miljkovic_pr54-2017\PredmetniProjekat\obj\Debug\PredmetniProjekat_MarkupCompile.cache
+F:\Projekat\Nikola_Miljkovic_pr54-2017\PredmetniProjekat\obj\Debug\PredmetniProjekat_MarkupCompile.lref
+F:\Projekat\Nikola_Miljkovic_pr54-2017\PredmetniProjekat\bin\Debug\PredmetniProjekat.exe.config
+F:\Projekat\Nikola_Miljkovic_pr54-2017\PredmetniProjekat\bin\Debug\PredmetniProjekat.exe
+F:\Projekat\Nikola_Miljkovic_pr54-2017\PredmetniProjekat\bin\Debug\PredmetniProjekat.pdb
+F:\Projekat\Nikola_Miljkovic_pr54-2017\PredmetniProjekat\obj\Debug\DodajNovi.baml
+F:\Projekat\Nikola_Miljkovic_pr54-2017\PredmetniProjekat\obj\Debug\MainWindow.baml
+F:\Projekat\Nikola_Miljkovic_pr54-2017\PredmetniProjekat\obj\Debug\PredmetniProjekat.g.resources
+F:\Projekat\Nikola_Miljkovic_pr54-2017\PredmetniProjekat\obj\Debug\PredmetniProjekat.Properties.Resources.resources
+F:\Projekat\Nikola_Miljkovic_pr54-2017\PredmetniProjekat\obj\Debug\PredmetniProjekat.csproj.GenerateResource.cache
+F:\Projekat\Nikola_Miljkovic_pr54-2017\PredmetniProjekat\obj\Debug\PredmetniProjekat.exe
+F:\Projekat\Nikola_Miljkovic_pr54-2017\PredmetniProjekat\obj\Debug\PredmetniProjekat.pdb
+F:\Projekat\Nikola_Miljkovic_pr54-2017\PredmetniProjekat\obj\Debug\Prikaz.g.cs
+F:\Projekat\Nikola_Miljkovic_pr54-2017\PredmetniProjekat\obj\Debug\Prikaz.baml
+F:\Projekat - Copy\Nikola_Miljkovic_pr54-2017\PredmetniProjekat\bin\Debug\PredmetniProjekat.exe.config
+F:\Projekat - Copy\Nikola_Miljkovic_pr54-2017\PredmetniProjekat\bin\Debug\PredmetniProjekat.exe
+F:\Projekat - Copy\Nikola_Miljkovic_pr54-2017\PredmetniProjekat\bin\Debug\PredmetniProjekat.pdb
+F:\Projekat - Copy\Nikola_Miljkovic_pr54-2017\PredmetniProjekat\obj\Debug\PredmetniProjekat.csprojAssemblyReference.cache
+F:\Projekat - Copy\Nikola_Miljkovic_pr54-2017\PredmetniProjekat\obj\Debug\DodajNovi.g.cs
+F:\Projekat - Copy\Nikola_Miljkovic_pr54-2017\PredmetniProjekat\obj\Debug\MainWindow.g.cs
+F:\Projekat - Copy\Nikola_Miljkovic_pr54-2017\PredmetniProjekat\obj\Debug\Prikaz.g.cs
+F:\Projekat - Copy\Nikola_Miljkovic_pr54-2017\PredmetniProjekat\obj\Debug\App.g.cs
+F:\Projekat - Copy\Nikola_Miljkovic_pr54-2017\PredmetniProjekat\obj\Debug\PredmetniProjekat_MarkupCompile.cache
+F:\Projekat - Copy\Nikola_Miljkovic_pr54-2017\PredmetniProjekat\obj\Debug\PredmetniProjekat_MarkupCompile.lref
+F:\Projekat - Copy\Nikola_Miljkovic_pr54-2017\PredmetniProjekat\obj\Debug\DodajNovi.baml
+F:\Projekat - Copy\Nikola_Miljkovic_pr54-2017\PredmetniProjekat\obj\Debug\MainWindow.baml
+F:\Projekat - Copy\Nikola_Miljkovic_pr54-2017\PredmetniProjekat\obj\Debug\Prikaz.baml
+F:\Projekat - Copy\Nikola_Miljkovic_pr54-2017\PredmetniProjekat\obj\Debug\PredmetniProjekat.g.resources
+F:\Projekat - Copy\Nikola_Miljkovic_pr54-2017\PredmetniProjekat\obj\Debug\PredmetniProjekat.Properties.Resources.resources
+F:\Projekat - Copy\Nikola_Miljkovic_pr54-2017\PredmetniProjekat\obj\Debug\PredmetniProjekat.csproj.GenerateResource.cache
+F:\Projekat - Copy\Nikola_Miljkovic_pr54-2017\PredmetniProjekat\obj\Debug\PredmetniProjekat.exe
+F:\Projekat - Copy\Nikola_Miljkovic_pr54-2017\PredmetniProjekat\obj\Debug\PredmetniProjekat.pdb
+E:\Projekat - Copy\Nikola_Miljkovic_pr54-2017\PredmetniProjekat\bin\Debug\PredmetniProjekat.exe.config
+E:\Projekat - Copy\Nikola_Miljkovic_pr54-2017\PredmetniProjekat\bin\Debug\PredmetniProjekat.exe
+E:\Projekat - Copy\Nikola_Miljkovic_pr54-2017\PredmetniProjekat\bin\Debug\PredmetniProjekat.pdb
+E:\Projekat - Copy\Nikola_Miljkovic_pr54-2017\PredmetniProjekat\obj\Debug\PredmetniProjekat.csprojAssemblyReference.cache
+E:\Projekat - Copy\Nikola_Miljkovic_pr54-2017\PredmetniProjekat\obj\Debug\DodajNovi.g.cs
+E:\Projekat - Copy\Nikola_Miljkovic_pr54-2017\PredmetniProjekat\obj\Debug\MainWindow.g.cs
+E:\Projekat - Copy\Nikola_Miljkovic_pr54-2017\PredmetniProjekat\obj\Debug\Prikaz.g.cs
+E:\Projekat - Copy\Nikola_Miljkovic_pr54-2017\PredmetniProjekat\obj\Debug\App.g.cs
+E:\Projekat - Copy\Nikola_Miljkovic_pr54-2017\PredmetniProjekat\obj\Debug\PredmetniProjekat_MarkupCompile.cache
+E:\Projekat - Copy\Nikola_Miljkovic_pr54-2017\PredmetniProjekat\obj\Debug\PredmetniProjekat_MarkupCompile.lref
+E:\Projekat - Copy\Nikola_Miljkovic_pr54-2017\PredmetniProjekat\obj\Debug\DodajNovi.baml
+E:\Projekat - Copy\Nikola_Miljkovic_pr54-2017\PredmetniProjekat\obj\Debug\MainWindow.baml
+E:\Projekat - Copy\Nikola_Miljkovic_pr54-2017\PredmetniProjekat\obj\Debug\Prikaz.baml
+E:\Projekat - Copy\Nikola_Miljkovic_pr54-2017\PredmetniProjekat\obj\Debug\PredmetniProjekat.g.resources
+E:\Projekat - Copy\Nikola_Miljkovic_pr54-2017\PredmetniProjekat\obj\Debug\PredmetniProjekat.Properties.Resources.resources
+E:\Projekat - Copy\Nikola_Miljkovic_pr54-2017\PredmetniProjekat\obj\Debug\PredmetniProjekat.csproj.GenerateResource.cache
+E:\Projekat - Copy\Nikola_Miljkovic_pr54-2017\PredmetniProjekat\obj\Debug\PredmetniProjekat.exe
+E:\Projekat - Copy\Nikola_Miljkovic_pr54-2017\PredmetniProjekat\obj\Debug\PredmetniProjekat.pdb
+F:\FAKULTET 3. GODINA\HCI\Projekat - Copy\Nikola_Miljkovic_pr54-2017\PredmetniProjekat\bin\Debug\PredmetniProjekat.exe.config
+F:\FAKULTET 3. GODINA\HCI\Projekat - Copy\Nikola_Miljkovic_pr54-2017\PredmetniProjekat\bin\Debug\PredmetniProjekat.exe
+F:\FAKULTET 3. GODINA\HCI\Projekat - Copy\Nikola_Miljkovic_pr54-2017\PredmetniProjekat\bin\Debug\PredmetniProjekat.pdb
+F:\FAKULTET 3. GODINA\HCI\Projekat - Copy\Nikola_Miljkovic_pr54-2017\PredmetniProjekat\obj\Debug\PredmetniProjekat.csprojAssemblyReference.cache
+F:\FAKULTET 3. GODINA\HCI\Projekat - Copy\Nikola_Miljkovic_pr54-2017\PredmetniProjekat\obj\Debug\DodajNovi.g.cs
+F:\FAKULTET 3. GODINA\HCI\Projekat - Copy\Nikola_Miljkovic_pr54-2017\PredmetniProjekat\obj\Debug\MainWindow.g.cs
+F:\FAKULTET 3. GODINA\HCI\Projekat - Copy\Nikola_Miljkovic_pr54-2017\PredmetniProjekat\obj\Debug\Prikaz.g.cs
+F:\FAKULTET 3. GODINA\HCI\Projekat - Copy\Nikola_Miljkovic_pr54-2017\PredmetniProjekat\obj\Debug\App.g.cs
+F:\FAKULTET 3. GODINA\HCI\Projekat - Copy\Nikola_Miljkovic_pr54-2017\PredmetniProjekat\obj\Debug\PredmetniProjekat_MarkupCompile.cache
+F:\FAKULTET 3. GODINA\HCI\Projekat - Copy\Nikola_Miljkovic_pr54-2017\PredmetniProjekat\obj\Debug\PredmetniProjekat_MarkupCompile.lref
+F:\FAKULTET 3. GODINA\HCI\Projekat - Copy\Nikola_Miljkovic_pr54-2017\PredmetniProjekat\obj\Debug\DodajNovi.baml
+F:\FAKULTET 3. GODINA\HCI\Projekat - Copy\Nikola_Miljkovic_pr54-2017\PredmetniProjekat\obj\Debug\MainWindow.baml
+F:\FAKULTET 3. GODINA\HCI\Projekat - Copy\Nikola_Miljkovic_pr54-2017\PredmetniProjekat\obj\Debug\Prikaz.baml
+F:\FAKULTET 3. GODINA\HCI\Projekat - Copy\Nikola_Miljkovic_pr54-2017\PredmetniProjekat\obj\Debug\PredmetniProjekat.g.resources
+F:\FAKULTET 3. GODINA\HCI\Projekat - Copy\Nikola_Miljkovic_pr54-2017\PredmetniProjekat\obj\Debug\PredmetniProjekat.Properties.Resources.resources
+F:\FAKULTET 3. GODINA\HCI\Projekat - Copy\Nikola_Miljkovic_pr54-2017\PredmetniProjekat\obj\Debug\PredmetniProjekat.csproj.GenerateResource.cache
+F:\FAKULTET 3. GODINA\HCI\Projekat - Copy\Nikola_Miljkovic_pr54-2017\PredmetniProjekat\obj\Debug\PredmetniProjekat.exe
+F:\FAKULTET 3. GODINA\HCI\Projekat - Copy\Nikola_Miljkovic_pr54-2017\PredmetniProjekat\obj\Debug\PredmetniProjekat.pdb
